@@ -1,4 +1,4 @@
-baseURL = "https://uprightlab.com"
+baseURL = "https://www.uprightlab.com"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
